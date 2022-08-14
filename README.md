@@ -6,7 +6,7 @@
   <a href = "mailto:fsouzapimenta1456@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 ## About Me 🐈
-- 🎓 IT Technician, Graduating in Bachelor of Information Systems
+- 🎓 Graduating in Bachelor of Information Systems
 - 📖 Learning about Java and Python
 - ✨ Trying to be a better version of me everyday
 - ⚙️ Working on scientific initiation projects
