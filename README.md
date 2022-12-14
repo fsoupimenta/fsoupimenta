@@ -7,6 +7,6 @@
   
 ## About Me 🐈
 - 🎓 Graduating in Bachelor of Information Systems
-- 📖 Learning about Java and Python
+- 📖 Learning about Java, Python and React
 - ✨ Trying to be a better version of me everyday
-- ⚙️ Working on scientific initiation projects
+- ⚙️ Working on scientific initiation projects 
